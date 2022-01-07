@@ -1,0 +1,26 @@
+:root {
+	--dark: #001220;
+	--dark-hue: #001525;
+	--darker: #000000;
+	--light: #ffffff;
+	--primary: #92d8ff;
+	--secondary: #fa7268;
+	--accent: #acff59;
+	--highlight: #ff9900;
+	--orange: #ff9900;
+	--indigo: #3f51b5;
+	--sky: #92d8ff;
+	--dark-orange: #ff6610;
+	--muted: #757575;
+	--lighter: #ffffff;
+}
+
+.light-mode {
+	--dark: #ffffff;
+	--dark-hue: #F9F9F9;
+	--light: #001220;
+	--primary: #3f51b5;
+	--secondary: #fa7268;
+	--accent: #ff9900;
+	--highlight: #acff59;
+}
